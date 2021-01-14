@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s\ ch
+comment0.target=int\ count(java.lang.String,\ char)
+comment1.params=n
+comment1.target=long\ duplicateDigits(long)
+comment2.params=start\ end
+comment2.target=java.lang.String\ fizzBuzz(int,\ int)
+comment3.params=n\ verbose
+comment3.target=int\ collatz(int,\ boolean)
+numComments=4

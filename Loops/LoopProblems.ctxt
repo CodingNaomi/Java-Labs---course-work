@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=long\ factorial(int)
+comment1.params=n
+comment1.target=int\ countDigits(int)
+comment2.params=d\ start\ end
+comment2.target=int\ countDigitOccurrences(int,\ int,\ int)
+comment3.params=a
+comment3.target=boolean\ isSelfDivisible(int)
+numComments=4
