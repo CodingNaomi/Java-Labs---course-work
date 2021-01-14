@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a\ start\ end
+comment0.target=boolean\ allEqual(int[],\ int,\ int)
+comment1.params=src\ start\ tgt\ start2\ len
+comment1.target=void\ arraycopy(double[],\ int,\ double[],\ int,\ int)
+comment2.params=a\ x\ start\ end
+comment2.target=boolean\ linearSearch(int[],\ int,\ int,\ int)
+comment3.params=a\ start\ end
+comment3.target=void\ reverse(int[],\ int,\ int)
+numComments=4
