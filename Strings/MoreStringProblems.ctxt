@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=java.lang.String\ uniqueCharacters(java.lang.String)
+comment1.params=text\ pattern
+comment1.target=int\ countOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=s\ k
+comment2.target=java.lang.String\ cyclicLeftShift(java.lang.String,\ int)
+comment3.params=s
+comment3.target=int\ parseInt(java.lang.String)
+numComments=4

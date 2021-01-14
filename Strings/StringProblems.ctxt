@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=java.lang.String\ reverse(java.lang.String)
+comment1.params=s
+comment1.target=boolean\ isPalindrome(java.lang.String)
+comment2.params=s\ n
+comment2.target=java.lang.String\ stretch(java.lang.String,\ int)
+comment3.params=s
+comment3.target=int\ countWords(java.lang.String)
+numComments=4
